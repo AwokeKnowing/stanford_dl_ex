@@ -1,3 +1,5 @@
+NOTE: this is just a personal fork of the project files so I can track my personal work through the exercises
+
 stanford_dl_ex
 ==============
 
